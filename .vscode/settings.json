@@ -1,16 +1,16 @@
 {
-    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
-    "C_Cpp.default.intelliSenseMode": "gcc-x64",
-    "C_Cpp.default.cStandard": "c99",
-    "C_Cpp.default.includePath": [
-        "${workspaceFolder}/include",
-        "${workspaceFolder}/src"
-    ],
-    "files.associations": {
-        "*.h": "c"
-    },
-    "makefile.makePath": "mingw32-make",
-    "makefile.configureOnOpen": true,
-    "debug.onTaskErrors": "showErrors",
-    "explorer.confirmDelete": false
+  "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\gcc.exe",
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.default.cStandard": "c99",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/include",
+    "${workspaceFolder}/src"
+  ],
+  "files.associations": {
+    "*.h": "c"
+  },
+  "makefile.makePath": "mingw32-make",
+  "makefile.configureOnOpen": true,
+  "debug.onTaskErrors": "showErrors",
+  "explorer.confirmDelete": false
 }
