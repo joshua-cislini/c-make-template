@@ -9,8 +9,9 @@ A simple C project using **GCC**, **MinGW**, **Make**, **GDB**, and **Clang-Form
 ```text
 MyProject/
 │
-├── Makefile
 ├── README.md
+├── LICENSE
+├── Makefile
 ├── .clang-format
 │
 ├── src/
@@ -51,8 +52,9 @@ MyProject/
 
 | File            | Purpose                                             |
 | --------------- | --------------------------------------------------- |
-| `Makefile`      | Controls compilation, linking, running and cleaning |
 | `README.md`     | Project documentation                               |
+| `LICENSE`       | Project license                                     |
+| `Makefile`      | Controls compilation, linking, running and cleaning |
 | `.clang-format` | Defines the project's C/C++ code formatting style   |
 | `main.c`        | Program entry point                                 |
 | `.h` files      | Function declarations and shared definitions        |
